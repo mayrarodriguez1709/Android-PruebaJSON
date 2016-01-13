@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PruebaJSON</string>
+    <string name="action_settings">Settings</string>
+    <string name="tvName">Nombre</string>
+    <string name="tvAge">Edad</string>
+    <string name="btGenerateJSON">Generar JSON</string>
+</resources>
